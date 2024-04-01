@@ -582,6 +582,7 @@ header{
     color: #ffffff;
     height: 496px;
     border-radius: 0 248px 248px 0;
+    position: relative;
 }
 #product-title > h1 {
     position: absolute;
